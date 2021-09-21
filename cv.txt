@@ -1,3 +1,4 @@
 Ini adalah file CV
 
 Perusahaan 1 : Shopee
+Perusahaan 2 : Unilever
